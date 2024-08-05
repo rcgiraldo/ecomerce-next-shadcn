@@ -1,5 +1,7 @@
 import "./globals.css";
 
+import React from 'react'
+
 import type { Metadata } from "next";
 import { Poppins as FontSans } from "next/font/google";
 import { cn } from '@/lib/utils'
